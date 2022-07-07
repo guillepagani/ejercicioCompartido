@@ -1,1 +1,1 @@
-let nombres = ['Guillermo', 'Jorge']
+let nombres = ['Guillermo', 'Jorge', 'Pagani']
